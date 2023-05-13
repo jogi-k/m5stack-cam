@@ -6,5 +6,5 @@
 What works so far :
 * Basically "nothing".
 * M5Burner works, I can download the TimerCamRTSP via M5Burner and watch the serial port via Arduino-Monitor, but nothing happens on VLC
-* I can download a Hello World, but it does not print it out via Output in Platform IO.
+* I can compile and download a Hello World in Platform-IO, but it does not print out aything in the monitor of Platform IO.
 
